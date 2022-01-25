@@ -191,8 +191,3 @@ fn get_points_and_scalars(
     }
     (points, scalars, points.len())
 }
-
-#[test]
-fn vectors() {
-
-}
